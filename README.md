@@ -71,8 +71,9 @@ Le générateur de CV en ligne est une application web qui permet aux utilisateu
 
 ## Contributeurs
 
-[@Laurence ATINDOKPO](https://github.com/laurence090403)- Développeur principal
-Nom du contributeur - Contributeur
+- [@Laurence ATINDOKPO](https://github.com/laurence090403)- Développeur principal
+
+- Nom du contributeur - Contributeur
 
 ## Licence
 
